@@ -43,8 +43,8 @@ export  class  AppController {
         return apiClient.appClient.post('withdraw', payload)
     }
 
-    static walletAddress(email){
-        return apiClient.appClient.get(`read-wallets/${email}`)
+    static walletAddress(){
+        return apiClient.appClient.get(`read-wallets`)
     }
 
     static deposit(payload){

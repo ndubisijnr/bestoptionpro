@@ -524,7 +524,7 @@ function getUser(payload){
             </div> -->
 
             <div class="col-lg text-center text-lg-right">
-                &copy; 2024 bestoptions pro. All Rights Reserved.
+                &copy; 2025 best option pro. All Rights Reserved.
             </div>
         </div>
     </footer>

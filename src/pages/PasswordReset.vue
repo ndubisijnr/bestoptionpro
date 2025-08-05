@@ -22,7 +22,7 @@ function checkEmail() {
     <div class="row justify-content-md-center">
         <div class="card-wrapper col-12 col-md-4 mt-5">
             <div class="brand text-center mb-3">
-                <h3 class="text-white">Etfsmartpro</h3>
+                <h3 class="text-white">BestOptionPro</h3>
             </div>
             <div class="card">
                 <div class="card-body">
@@ -48,7 +48,7 @@ function checkEmail() {
             <footer class="footer mt-3">
                 <div class="container-fluid">
                     <div class="footer-content text-center small">
-                        <span class="text-muted">&copy; 2024 bestoptions pro. All Rights Reserved.</span>
+                        <span class="text-muted">&copy; 2025 best option pro. All Rights Reserved.</span>
                     </div>
                 </div>
             </footer>

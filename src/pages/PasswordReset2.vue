@@ -79,7 +79,7 @@ function resetPassword(){
             <footer class="footer mt-3">
                 <div class="container-fluid">
                     <div class="footer-content text-center small">
-                        <span class="text-muted">&copy; 2024 bestoptions pro. All Rights Reserved.</span>
+                        <span class="text-muted">&copy; 2025 best option pro. All Rights Reserved.</span>
                     </div>
                 </div>
             </footer>

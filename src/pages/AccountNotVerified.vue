@@ -25,7 +25,7 @@ const user = StoreUtils.getter().auth.getUsers
             </nav>
             <!-- End Breadcrumb -->
 
-            <h1 class="h3 mb-3 mb-md-4">Etfsmartpro</h1>
+            <h1 class="h3 mb-3 mb-md-4">BestOptionPro</h1>
 
             <!-- Page content -->
             <div class="card mb-3 mb-md-4">
@@ -41,7 +41,7 @@ const user = StoreUtils.getter().auth.getUsers
 
 
                             If you require any assistance or have any questions, please don't hesitate to contact our
-                            support team at <a href="mailto:support@bestoptionsfx.com">support@bestoptionspro.com</a>.
+                            support team at <a href="mailto:support@bestoptionspro.com">support@bestoptionspro.com</a>.
 
                             <br /><br />
 
@@ -50,7 +50,7 @@ const user = StoreUtils.getter().auth.getUsers
                             <br />
 
                             Best regards,
-                            Etfsmartpro Support Team
+                            BestOptionPro Support Team
                         </p>
 
                     </div>

@@ -11,7 +11,7 @@ const selectPlan = ref('weekly')
     <nav class="navbar navbar-bg navbar-expand-md fixed-top wow animate__zoomIn">
 
         <div class="container-fluid">
-            <div class=""><em style="font-size: 1.5rem;font-weight: 800;color: #4caf50;">Etfsmartpro</em></div>
+            <div class=""><em style="font-size: 1.5rem;font-weight: 800;color: #fb9646;">BestOptionPro</em></div>
 
             <!-- <a class="navbar-brand" href="/"> <img src="main/images/caption.png" /> </a> -->
             <img class="navbar-toggler" src="../assets/undraw_asymmetric-parallels.svg" type="button"
@@ -105,7 +105,7 @@ const selectPlan = ref('weekly')
                                                     TRADING, ZERO RISK</h5>
                                                 <div class="btn-box wow animate__jello animate__delay-5s"
                                                     style="justify-content:start">
-                                                    <a href="/login" class="btn-1" style="background-color: #4caf50;">
+                                                    <a href="/login" class="btn-1" style="background-color: #fb9646;">
                                                         Login
                                                     </a>
                                                 </div>
@@ -133,10 +133,10 @@ const selectPlan = ref('weekly')
                         <div class="descard wow animate__fadeInUp">
                             <div class="content">
                                 <h2 class="text-left">
-                                    Why trade with Etfsmartpro?
+                                    Why trade with BestOptionPro?
                                 </h2>
                                 <p>
-                                    Trading with <strong>Etfsmartpro </strong> will grant you access to
+                                    Trading with <strong>BestOptionPro </strong> will grant you access to
                                     comprehensive educational skills to enhance your knowledge - Materials of modern
                                     risk management skills to help optimize your trades for maximum profitability while
                                     minimizing potential losses.<br />
@@ -744,13 +744,13 @@ const selectPlan = ref('weekly')
                                                         <button class="accordion-button collapsed" type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseOne"
                                                             aria-expanded="false" aria-controls="collapseOne">
-                                                            What is Etfsmartpro ?
+                                                            What is BestOptionPro ?
                                                         </button>
                                                     </h4>
                                                     <div id="collapseOne" class="accordion-collapse collapse "
                                                         aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                         <div class="accordion-body">
-                                                            <strong>Etfsmartpro </strong> is a broker that is
+                                                            <strong>BestOptionPro </strong> is a broker that is
                                                             comprised of a top-tier management team that utilizes your
                                                             to execute trades across various offerings, thereby
                                                             transforming your into a profitable venture.
@@ -764,7 +764,7 @@ const selectPlan = ref('weekly')
                                                         <button class="accordion-button collapsed" type="button"
                                                             data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                             aria-expanded="false" aria-controls="collapseTwo">
-                                                            Why should I choose Etfsmartpro ?
+                                                            Why should I choose BestOptionPro ?
                                                         </button>
                                                     </h4>
                                                     <div id="collapseTwo" class="accordion-collapse collapse"
@@ -1017,7 +1017,7 @@ const selectPlan = ref('weekly')
                         <div class="col-md-12">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <h4>Etfsmartpro </h4>
+                                    <h4>BestOptionPro </h4>
                                     <hr />
                                     <ul>
                                         <li>
@@ -1057,7 +1057,7 @@ const selectPlan = ref('weekly')
                                     Agreement and Risk Disclosure Information.
                                 </small>
                             </p>
-                            <p>&copy; 2024 Etfsmartpro </p>
+                            <p>&copy; 2025 BestOptionPro </p>
                         </div>
 
                     </div>
@@ -1069,7 +1069,7 @@ const selectPlan = ref('weekly')
 
 <style scoped>
 .active-nav {
-    background-color: #4caf50;
+    background-color: #fb9646;
     border-top-right-radius: 1rem;
     border-top-left-radius: 1rem;
     color: #fff;

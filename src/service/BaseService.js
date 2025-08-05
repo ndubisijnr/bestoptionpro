@@ -2,7 +2,7 @@ import axios from "axios";
 
 // http://127.0.0.1:8000/bestApi/
 export const appClient = axios.create({
-    baseURL: "https://etsmartpro.pythonanywhere.com/bestApi/",
+    baseURL: "https://paybukdev.pythonanywhere.com/bestApi/",
     withCredentials: false,
     headers: {
          "Accept": "application/json",

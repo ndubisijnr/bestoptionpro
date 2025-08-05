@@ -5,7 +5,7 @@
 <nav class="navbar navbar-expand-md navbar-bg fixed-top wow animate__zoomIn">
 
     <div class="container-fluid">
-    <div class=""><em style="font-size: 1.5rem;font-weight: 800;color: #4caf50;">Etfsmartpro</em></div>
+    <div class=""><em style="font-size: 1.5rem;font-weight: 800;color: #4caf50;">BestOptionPro</em></div>
    
     <!-- <a class="navbar-brand" href="/"> <img src="main/images/caption.png" /> </a> -->
      <img class="navbar-toggler" src="../assets/undraw_asymmetric-parallels.svg" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
@@ -157,7 +157,7 @@
                 <div class="col-md-12">
                     <div class="row">
                         <div class="col-md-6">
-                            <h4>Equi Sync Capital</h4>
+                            <h4>BestOptionPro</h4>
                             <hr />
                             <ul>
                                 <li>
@@ -197,7 +197,7 @@
                             Agreement and Risk Disclosure Information.
                         </small>
                     </p>
-                    <p>&copy; 2024 Equi Sync Capital</p>
+                    <p>&copy; 2025 best option pro</p>
                 </div>
 
             </div>

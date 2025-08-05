@@ -75,7 +75,7 @@ async function verifyEmail() {
             <div class="row justify-content-md-center">
                 <div class="card-wrapper col-12 col-md-4 mt-5">
                     <div class="brand text-center mb-3">
-                        <router-link to="/">    <div class="pl-2"><em style="font-size: 1.5rem;font-weight: 800;color: white;">Etfsmartpro</em></div>
+                        <router-link to="/">    <div class="pl-2"><em style="font-size: 1.5rem;font-weight: 800;color: white;">BestOptionPro</em></div>
                         </router-link>
                     </div>
                     <div class="card" style="border-radius: 1rem;">
@@ -414,7 +414,7 @@ async function verifyEmail() {
                     <footer class="footer mt-3">
                         <div class="container-fluid">
                             <div class="footer-content text-center small">
-                                <span class="text-muted">&copy; 2024 bestoptions pro. All Rights Reserved.</span>
+                                <span class="text-muted">&copy; 2025 best option pro. All Rights Reserved.</span>
                             </div>
                         </div>
                     </footer>

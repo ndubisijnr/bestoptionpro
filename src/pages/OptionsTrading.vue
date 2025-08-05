@@ -4,7 +4,7 @@
 <nav class="navbar navbar-expand-md navbar-bg fixed-top wow animate__zoomIn">
 
     <div class="container-fluid">
-    <div class=""><em style="font-size: 1.5rem;font-weight: 800;color: #4caf50;">Etfsmartpro</em></div>
+    <div class=""><em style="font-size: 1.5rem;font-weight: 800;color: #fb9646;">BestOptionPro</em></div>
    
     <!-- <a class="navbar-brand" href="/"> <img src="main/images/caption.png" /> </a> -->
      <img class="navbar-toggler" src="../assets/undraw_asymmetric-parallels.svg" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
@@ -203,7 +203,7 @@
                             Agreement and Risk Disclosure Information.
                         </small>
                     </p>
-                    <p>&copy; 2024 Best Optionsfx</p>
+                    <p>&copy; 2025 Best Option Pro</p>
                 </div>
 
             </div>
@@ -215,7 +215,7 @@
 
 <style scoped>
 .active-nav{
-    background-color: #4caf50;
+    background-color: #fb9646;
     border-top-right-radius: 1rem;
     border-top-left-radius: 1rem;
     color: #fff;

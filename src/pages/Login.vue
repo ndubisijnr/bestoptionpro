@@ -23,7 +23,7 @@ async function loginAction() {
             <div class="row justify-content-md-center">
                 <div class="card-wrapper col-12 col-md-4 mt-5">
                     <div class="brand text-center mb-3">
-                        <router-link to="/"><div class="pl-2"><em style="font-size: 1.5rem;font-weight: 800;color: white;">Etfsmartpro</em></div> </router-link>
+                        <router-link to="/"><div class="pl-2"><em style="font-size: 1.5rem;font-weight: 800;color: white;">BestOptionPro</em></div> </router-link>
                     </div>
                     <div class="card">
                         <div class="card-body">
@@ -73,7 +73,7 @@ async function loginAction() {
                     <footer class="footer mt-3">
                         <div class="container-fluid">
                             <div class="footer-content text-center small">
-                                <span class="text-muted">&copy; 2024 bestoptions pro. All Rights Reserved.</span>
+                                <span class="text-muted">&copy; 2025 bestoption pro. All Rights Reserved.</span>
                             </div>
                         </div>
                     </footer>

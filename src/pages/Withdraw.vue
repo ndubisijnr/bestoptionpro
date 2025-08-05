@@ -303,7 +303,7 @@ onMounted(() => {
             <footer class="small p-3 px-md-4 mt-auto">
                 <div class="row">
                     <div class="col-lg text-center">
-                        &copy; 2024 bestoptions pro. All Rights Reserved.
+                        &copy; 2025 best option pro. All Rights Reserved.
                     </div>
                 </div>
             </footer>
